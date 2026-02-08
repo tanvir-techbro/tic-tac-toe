@@ -24,3 +24,15 @@ cd tic-tac-toe
 
 Follow the on-screen prompts — enter numbers 1 to 9 to make your move.
 Have fun! 🎮
+
+##Project Structure
+```text
+tic-tac-toe/
+├── main.cpp       # Entry point, game loop, user interface
+├── logic.cpp      # Game logic: board, win checking, move validation
+├── logic.h        # Header with function declarations
+├── README.md      # This file
+└── LICENSE        # MIT License
+```
+
+Feel free to fork, play, or improve! And thank you for playing.
