@@ -25,7 +25,7 @@ cd tic-tac-toe
 Follow the on-screen prompts — enter numbers 1 to 9 to make your move.
 Have fun! 🎮
 
-##Project Structure
+## Project Structure
 ```text
 tic-tac-toe/
 ├── main.cpp       # Entry point, game loop, user interface
