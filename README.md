@@ -19,7 +19,7 @@ cd tic-tac-toe
 
 ### 2. Run it
 ```bash.
-/game
+./game
 ```
 
 Follow the on-screen prompts — enter numbers 1 to 9 to make your move.
